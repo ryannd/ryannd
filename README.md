@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryannd
 - 👀 I’m interested in Full Stack Web Developement and AI/ML
 - 🌱 I’m currently learning Microservices, NestJS
-- 💞️ I’m looking to collaborate on web/mobile apps, anything really
+- 💞️ I’m looking to collaborate on web/mobile apps, AI/ML projects
 - 📫 How to reach me: ryan2dimaranan@gmail.com
 
 <!---
