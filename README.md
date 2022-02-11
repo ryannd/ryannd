@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ryannd
-- 👀 I’m interested in Full Stack Web Developement and AI/ML
-- 🌱 I’m currently learning Microservices, NestJS
-- 💞️ I’m looking to collaborate on web/mobile apps, AI/ML projects
-- 📫 How to reach me: ryan2dimaranan@gmail.com
-
-<!---
-ryannd/ryannd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <h2>Hello, I'm Ryan👋</h2>
+  <p>I am a 4th year undergraduate at <strong>The University of Texas at Dallas</strong>, currently interning at <strong>WarnerMedia</strong> as an <strong>HBO Max SWE Intern</strong></p>
+  <p></p>
+</div>
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryannd&show_icons=true&theme=radical">
+</div>
